@@ -1,5 +1,16 @@
 # SAS-Programming-Projects
-I recently took the Coursera SAS programming course and completed the two case studies. The completes course has 3 modules each of which will take 6 months to complete. I knocked all 3 out in 1 week. The case study in the final module "Practical SAS Programming and Certification Review SAS" was what I found most interesting. There were
+I recently took the Coursera SAS programming course and completed the two case studies. The completes course has 3 modules each of which will take 6 months to complete. I knocked all 3 out in 1 week. 
+
+1. Getting Started with SAS Programming https://www.coursera.org/account/accomplishments/verify/55FQN8TPBS2C
+
+2. Doing More with SAS Programming https://www.coursera.org/account/accomplishments/verify/E22FKPLW5RZF
+
+3. Practical SAS Programming and Certification https://www.coursera.org/account/accomplishments/verify/AZJ2EUEGK5A5
+
+Upon completion of all three courses you will recieve a bonus certificate
+4. SAS Programmer Specialization https://www.coursera.org/account/accomplishments/specialization/SZAC7UDQHVVJ 
+
+The case study in the final module "Practical SAS Programming and Certification Review SAS" was what I found most interesting. There were
 
 1. The TSA Travel Case Study: 
 
